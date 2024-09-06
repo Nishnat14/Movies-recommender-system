@@ -13,19 +13,19 @@ This project is a movie recommender system built using content-based filtering. 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/home_screen.png)
+![Home Screen](image/home_screen.png)
 
 ### Recommendation Results
-![Recommendation Results](images/recommendations.png)
+![Recommendation Results](image/recommendations.png)
 
-![Recommendation Results](images/recommendations1.png)
+![Recommendation Results](image/recommendations1.png)
 
-![Recommendation Results](images/recommendations2.png)
+![Recommendation Results](image/recommendations2.png)
 
-![Recommendation Results](images/recommendations3.png)
+![Recommendation Results](image/recommendations3.png)
 
 ### Movie Poster Display
-![Movie Poster](images/poster.png)
+![Movie Poster](image/poster.png)
 
 ## Technologies
 
