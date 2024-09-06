@@ -63,29 +63,29 @@ The `similarity.pkl` file is required for the recommendation algorithm. You can 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
-3.**Install Required Packages**:
+3. **Install Required Packages**:
 
 ```bash
 pip install -r requirements.txt
 Obtain TMDB API Key:
 ```
 
-4.**Sign up at TMDB and get an API key**.
+4. **Sign up at TMDB and get an API key**.
 
 Replace your_api_key in the code with your actual API key.
 
-5.**Download and Place Files**:
+5. **Download and Place Files**:
 
 Download movies.pkl and similarity.pkl from the provided links.
 Place them in the project directory.
 
 ## Usage
-6.**Run the Streamlit App**:
+6. **Run the Streamlit App**:
 
 ```bash
 streamlit run app.py
 ```
-7.**Access the Web App**:
+7. **Access the Web App**:
 
 Open a web browser and navigate to http://localhost:8501.
 
