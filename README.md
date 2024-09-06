@@ -71,6 +71,7 @@ Obtain TMDB API Key:
 ```
 
 4.**Sign up at TMDB and get an API key**.
+
 Replace your_api_key in the code with your actual API key.
 
 5.**Download and Place Files**:
